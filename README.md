@@ -1,7 +1,7 @@
 # ms-screenclipArju
 ms-screenclip: with Arguments
 
-Microsoft windows 10 dont alloewed to open ScreenClip with arguments (%1) to open the ScreenClip with an exiting file.
+Microsoft windows 10 dont allowed to open ScreenClip with arguments (%1) to open the ScreenClip with an exiting file.
 all this because in windows 10 the apps are WPF.
 
 this Code is simple open the screen Clip with %1 path of an image.
