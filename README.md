@@ -7,3 +7,4 @@ this Code is simple open the screen Clip with %1 path of an image.
 
 based on "Tom JD1 Xue":
 https://learn.microsoft.com/en-us/answers/questions/815824/how-to-invoke-snipping-tool-or-snip-sketch-to-open
+
